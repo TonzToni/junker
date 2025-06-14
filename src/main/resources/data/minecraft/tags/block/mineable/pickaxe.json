@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "value": [
+    "junker:pink_garnet_block",
+    "junker:raw_pink_garnet_block",
+    "junker:pink_garnet_ore",
+    "junker:pink_garnet_deepslate_ore"
+  ]
+}
