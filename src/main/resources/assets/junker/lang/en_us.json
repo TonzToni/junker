@@ -3,5 +3,8 @@
   "item.junker.raw_pink_garnet": "Raw Pink Garnet",
 
   "item.junker.pink_garnet_block": "Block of Pink Garnet",
-  "item.junker.raw_pink_garnet_block": "Block of Raw Pink Garnet"
+  "item.junker.raw_pink_garnet_block": "Block of Raw Pink Garnet",
+
+  "itemgroup.junker.pink_garnet_garnet_items": "Pink Garnet Items",
+  "itemgroup.junker.pink_garnet_garnet_blocks": "Pink Garnet Blocks"
 }

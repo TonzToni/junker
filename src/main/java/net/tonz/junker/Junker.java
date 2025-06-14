@@ -3,6 +3,7 @@ package net.tonz.junker;
 import net.fabricmc.api.ModInitializer;
 
 import net.tonz.junker.block.ModBlocks;
+import net.tonz.junker.item.ModItemGroups;
 import net.tonz.junker.item.ModItems;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -13,6 +14,8 @@ public class Junker implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
+		ModItemGroups.registerItemGroups();
+
 		ModItems.registerModItems();
 		ModBlocks.registerModBlocks();
 	}
